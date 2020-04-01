@@ -1,0 +1,10 @@
+V	300202133816Z		01	unknown	/CN=client/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
+V	300202133816Z		02	unknown	/CN=client/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
+V	300202133816Z		03	unknown	/CN=server/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
+V	300202133816Z		04	unknown	/CN=server/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
+R	300202133816Z	200326133816Z,keyCompromise	05	unknown	/CN=revoked/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
+V	300202133816Z		06	unknown	/CN=revoked/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
+V	300202133816Z		07	unknown	/CN=a.server/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
+V	300202133816Z		08	unknown	/CN=a.server/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
+V	300202133816Z		09	unknown	/CN=b.server/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
+V	300202133816Z		0A	unknown	/CN=b.server/OU=Erlang OTP/O=Ericsson AB/C=SE/L=Stockholm/emailAddress=peter@erix.ericsson.se
